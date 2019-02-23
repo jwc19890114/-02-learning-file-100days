@@ -1,0 +1,2 @@
+model_checkpoint_path: "tensorflowmodel01clip.ckpt"
+all_model_checkpoint_paths: "tensorflowmodel01clip.ckpt"

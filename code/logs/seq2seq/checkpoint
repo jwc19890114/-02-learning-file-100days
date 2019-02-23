@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\01\\Desktop\\\346\234\272\345\231\250\345\255\246\344\271\240\344\275\234\344\270\232\\sklearn+tensorflow\\logs\\seq2seq\\trained_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\01\\Desktop\\\346\234\272\345\231\250\345\255\246\344\271\240\344\275\234\344\270\232\\sklearn+tensorflow\\logs\\seq2seq\\trained_model.ckpt"

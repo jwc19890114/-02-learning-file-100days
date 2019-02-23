@@ -1,0 +1,2 @@
+model_checkpoint_path: "tensorflowmodel02selu.ckpt"
+all_model_checkpoint_paths: "tensorflowmodel02selu.ckpt"

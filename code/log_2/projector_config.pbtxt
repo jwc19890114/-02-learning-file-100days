@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "FINAL_LOGITS:0"
+  metadata_path: "C:/Users/01/Desktop/\346\234\272\345\231\250\345\255\246\344\271\240\344\275\234\344\270\232/sklearn+tensorflow/tf_logs/rnnProjector/mnist_meta"
+  sprite {
+    image_path: "C:/Users/01/Desktop/\346\234\272\345\231\250\345\255\246\344\271\240\344\275\234\344\270\232/sklearn+tensorflow/tf_logs/rnnProjector/mnist_sprite.jpg"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
